@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="1.OperatorOverloading">
+      <UniqueIdentifier>{0ef3831d-20eb-4515-85ff-d91b429f723a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1-1_intPlus.cpp">
+      <Filter>1.OperatorOverloading</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4_PlusOperatorDefine.cpp">
+      <Filter>1.OperatorOverloading</Filter>
+    </ClCompile>
+    <ClCompile Include="1-6_PlusOperatorFuncion.cpp">
+      <Filter>1.OperatorOverloading</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
