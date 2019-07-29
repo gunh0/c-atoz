@@ -13,7 +13,7 @@ public:
 		Point pt;
 		pt.x = this->x + arg.x;
 		pt.y = this->y + arg.y;
-		
+
 		return pt;
 	}
 };

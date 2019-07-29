@@ -5,7 +5,7 @@ class Point
 {
 	int x;
 	int y;
-public :
+public:
 	Point(int _x = 0, int _y = 0) :x(_x), y(_y) {}
 	void Print() const { cout << x << ',' << y << endl; }
 	void operator+(Point arg)
