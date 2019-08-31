@@ -21,5 +21,8 @@
     <ClCompile Include="1-9_%27--%27OperationOverloading.cpp">
       <Filter>1.OperatorOverloading</Filter>
     </ClCompile>
+    <ClCompile Include="1-10_%27==%27OperationOverloading.cpp">
+      <Filter>1.OperatorOverloading</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
