@@ -30,5 +30,8 @@
     <ClCompile Include="1-12_MemberFunctionOP%27-%27Overloading.cpp">
       <Filter>1.OperatorOverloading</Filter>
     </ClCompile>
+    <ClCompile Include="1-13_GlobalFunctionOP%27-%27Overloading.cpp">
+      <Filter>1.OperatorOverloading</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
