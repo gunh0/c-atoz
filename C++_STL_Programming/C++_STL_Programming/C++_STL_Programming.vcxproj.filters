@@ -36,5 +36,8 @@
     <ClCompile Include="1-14_PrintINT.cpp">
       <Filter>1.OperatorOverloading</Filter>
     </ClCompile>
+    <ClCompile Include="1-15_FuncOverloading.cpp">
+      <Filter>1.OperatorOverloading</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

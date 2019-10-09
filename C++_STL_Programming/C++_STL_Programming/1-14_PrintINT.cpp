@@ -15,7 +15,7 @@ void Print1(int arg)
 	cout << "Á¤¼ö : " << arg << endl;
 }
 
-int main()
+int main()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 {
 	void (*Print2)(int) = Print1;
 	FuncObject Print3;
