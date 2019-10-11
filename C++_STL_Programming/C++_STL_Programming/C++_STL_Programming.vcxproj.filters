@@ -42,5 +42,8 @@
     <ClCompile Include="1-16_ArrayIndexOperOverloading.cpp">
       <Filter>1.OperatorOverloading</Filter>
     </ClCompile>
+    <ClCompile Include="1-17_INTSavingArray.cpp">
+      <Filter>1.OperatorOverloading</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
