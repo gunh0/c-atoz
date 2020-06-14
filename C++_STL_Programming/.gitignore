@@ -1,0 +1,5 @@
+# Visual Studio 2019
+/.vs
+/x64
+/C++_STL_Programming/x64
+/C++_STL_Programming/C++_STL_Programming.vcxproj.user
