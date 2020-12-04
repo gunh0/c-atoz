@@ -1,13 +1,10 @@
-# C언어 A to Z 🇰🇷
+# C언어 A to Z
 
 <br/>
 
 <br/>
 
-## Hangul Automata
 
-> \*오토마타에 대한 이해를 위한 예시 코드
-> 계산 능력이 있는 추상 기계와, 그 기계를 이용해서 풀 수 있는 문제들에 대해 학문적으로 접근한 컴퓨터과학 분야
 
 -   HangulAutomata.cpp
 
