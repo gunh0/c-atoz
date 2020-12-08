@@ -19,14 +19,17 @@ int main()
     char *response = "Hello from server!";
 
     // 소켓 파일 디스크립터 생성
-    if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0)
+    if ((server_fd = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)) == 0)
     {
         perror("Socket creation failed");
         exit(EXIT_FAILURE);
     }
 
+    // 구조체 초기화
+    memset(&address, '0', sizeof(address));
+
     // 소켓 옵션 설정
-    if (setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR | SO_REUSEPORT, &opt, sizeof(opt)))
+    if (setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR, &opt, sizeof(opt)))
     {
         perror("Setsockopt failed");
         exit(EXIT_FAILURE);
