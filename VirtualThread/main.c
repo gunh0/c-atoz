@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // malloc 헤더 추가
+#include <stdlib.h>
 #include <pthread.h>
 #include <stdlib.h>
 #include <unistd.h>

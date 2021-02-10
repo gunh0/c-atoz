@@ -1,5 +1,11 @@
 # C Language A to Z
 
+### Basic
+
+-   Getting Started
+
+<br/>
+
 ### Computer Architecturexx
 
 ```bash
@@ -14,8 +20,6 @@
 │   └── main.c
 ```
 
-<br/>
-
 **`ALU`**
 
 -   This code defines an ALU (Arithmetic Logic Unit) simulation, which includes functions for shift operations, add/subtract operations, logic operations (AND, OR, XOR, NOR), and a set less than operation.
@@ -25,8 +29,6 @@
 -   This code includes functions to simulate memory access and a main function.
 -   Memory is divided into three regions: program area, data area, and stack area.
 -   These functions allow reading and writing a desired number of bytes in each of these regions.
-
-<br/>
 
 <br/>
 

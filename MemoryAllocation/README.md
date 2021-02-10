@@ -1,3 +1,3 @@
-### 코드 설명
+### Code Explanation
 
-이 코드에서 malloc() 함수를 사용하여 arr이라는 배열을 동적으로 할당하고, free() 함수를 사용하여 메모리를 해제합니다. 이렇게 동적으로 메모리를 할당하면 프로그램이 런타임 중에 메모리를 유연하게 할당할 수 있으며, 메모리 사용량을 효율적으로 관리할 수 있습니다. 그러나 메모리를 할당한 후 반드시 해제해야 하며, 해제하지 않으면 메모리 누수가 발생하여 시스템 성능에 영향을 미칠 수 있습니다.
+In this code, the `malloc()` function is used to dynamically allocate an array named `arr`, and the `free()` function is used to release the allocated memory. Dynamic memory allocation allows the program to flexibly allocate memory during runtime, efficiently managing memory usage. However, it is crucial to free the allocated memory after use to prevent memory leaks. Failure to do so may lead to memory leaks, impacting system performance.
