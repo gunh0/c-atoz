@@ -3,6 +3,7 @@
 ### Basic
 
 -   Getting Started
+-   Variables and Arithmetic Expressions
 
 <br/>
 
