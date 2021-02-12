@@ -5,7 +5,7 @@ CC = gcc
 CFLAGS = -Wall
 
 # Target executable
-TARGET = temperature_converter
+TARGET = main
 
 # Source files
 SRC = main.c
